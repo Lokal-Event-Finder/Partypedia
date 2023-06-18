@@ -79,4 +79,19 @@
   }
   
   .overflow-hidden { overflow: hidden; }
-  
+
+  .bg-primary {
+    background-color: rgb(93, 93, 93) !important;
+  }
+
+  .bg-dark {
+    background-color: rgba(255, 119, 0, 0.607) !important;
+  }
+
+
+  .bg-main {
+    background-image: url("assets/background.png");
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+  }
